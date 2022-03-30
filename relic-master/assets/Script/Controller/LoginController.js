@@ -70,6 +70,24 @@ cc.Class({
         }.bind(this));
     },
 
+    onBegin :function(){
+        this.loadingBar.node.active = true;
+        this.loginButton.node.active = true;
+        this.loadingBar.progress = 0;
+        let backup = cc.loader.onProgress;
+        cc.loader.onProgress = function (count, amount) {
+            this.loadingBar.progress = count / amount;
+        }.bind(this);
+        
+        cc.director.preloadScene("Begin", function () {
+            cc.loader.onProgress = backup;
+            this.loadingBar.node.active = false;
+            this.loginButton.node.active = true;
+            cc.director.loadScene("Begin");
+        }.bind(this));
+
+    },
+
     onDestroy: function(){
         cc.audioEngine.stop(this.gameSceneBGMAudioId);
     }
