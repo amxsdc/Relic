@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "4209bc37-7da0-4057-a860-e7a74e46af1e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2000,
+  "height": 1397,
+  "platformSettings": {},
+  "subMetas": {
+    "越王勾践": {
+      "ver": "1.0.4",
+      "uuid": "15be1f50-f8ed-4b00-b9d9-60e7fd10073f",
+      "rawTextureUuid": "4209bc37-7da0-4057-a860-e7a74e46af1e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -29.5,
+      "offsetY": 8,
+      "trimX": 94,
+      "trimY": 68,
+      "width": 1753,
+      "height": 1245,
+      "rawWidth": 2000,
+      "rawHeight": 1397,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

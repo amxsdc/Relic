@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "e44ed065-6d0c-43de-bc25-95e4ff157acf",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 200,
+  "height": 140,
+  "platformSettings": {},
+  "subMetas": {
+    "三星堆面具": {
+      "ver": "1.0.4",
+      "uuid": "02ae929c-ba41-4833-bf4e-68ea99e94473",
+      "rawTextureUuid": "e44ed065-6d0c-43de-bc25-95e4ff157acf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 199,
+      "height": 140,
+      "rawWidth": 200,
+      "rawHeight": 140,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

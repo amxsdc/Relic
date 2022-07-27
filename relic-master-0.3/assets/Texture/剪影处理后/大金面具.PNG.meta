@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "451556c0-540b-4ac1-8422-b0a3cf6a9563",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2000,
+  "height": 1397,
+  "platformSettings": {},
+  "subMetas": {
+    "大金面具": {
+      "ver": "1.0.4",
+      "uuid": "5c2b2969-42f2-4431-afa2-8d8dd4981a67",
+      "rawTextureUuid": "451556c0-540b-4ac1-8422-b0a3cf6a9563",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 104.5,
+      "offsetY": 320,
+      "trimX": 714,
+      "trimY": 30,
+      "width": 781,
+      "height": 697,
+      "rawWidth": 2000,
+      "rawHeight": 1397,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

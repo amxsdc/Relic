@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "4506d7ec-02a1-4073-9135-87de71f2ebd8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 200,
+  "height": 140,
+  "platformSettings": {},
+  "subMetas": {
+    "商周玉矛": {
+      "ver": "1.0.4",
+      "uuid": "46f10ae7-6a14-44ee-8dde-d406af60b464",
+      "rawTextureUuid": "4506d7ec-02a1-4073-9135-87de71f2ebd8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1.5,
+      "offsetY": 3,
+      "trimX": 62,
+      "trimY": 18,
+      "width": 79,
+      "height": 98,
+      "rawWidth": 200,
+      "rawHeight": 140,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
